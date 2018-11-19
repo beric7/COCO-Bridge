@@ -1,0 +1,2 @@
+Gusset Plate Connection,93,194,130,241
+Gusset Plate Connection,293,194,350,248

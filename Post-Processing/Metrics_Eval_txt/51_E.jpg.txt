@@ -1,0 +1,2 @@
+Cover Plate Termination,59,110,172,151
+Out of Plane Stiffener,125,1,194,112

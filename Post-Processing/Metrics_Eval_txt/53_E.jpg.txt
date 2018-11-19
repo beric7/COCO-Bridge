@@ -1,0 +1,10 @@
+Gusset Plate Connection,48,34,89,78
+Gusset Plate Connection,56,159,93,199
+Gusset Plate Connection,180,162,221,206
+Gusset Plate Connection,179,28,219,77
+Gusset Plate Connection,121,106,147,134
+Gusset Plate Connection,124,52,142,68
+Gusset Plate Connection,152,56,163,67
+Gusset Plate Connection,165,58,174,66
+Out of Plane Stiffener,34,30,63,205
+Out of Plane Stiffener,76,89,92,157

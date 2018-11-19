@@ -1,0 +1,11 @@
+Out of Plane Stiffener,34,90,47,168
+Out of Plane Stiffener,52,89,67,169
+Out of Plane Stiffener,73,90,88,170
+Out of Plane Stiffener,102,87,119,176
+Out of Plane Stiffener,150,85,165,181
+Out of Plane Stiffener,194,84,210,186
+Out of Plane Stiffener,247,81,262,189
+Out of Plane Stiffener,308,79,323,193
+Out of Plane Stiffener,0,91,33,164
+Cover Plate Termination,96,83,103,87
+Cover Plate Termination,119,82,130,86

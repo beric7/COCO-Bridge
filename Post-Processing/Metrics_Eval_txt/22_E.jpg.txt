@@ -1,0 +1,10 @@
+Out of Plane Stiffener,123,0,145,147
+Out of Plane Stiffener,228,54,263,204
+Out of Plane Stiffener,282,112,314,228
+Out of Plane Stiffener,110,174,122,254
+Out of Plane Stiffener,3,136,28,244
+Out of Plane Stiffener,175,198,187,263
+Out of Plane Stiffener,330,209,361,230
+Gusset Plate Connection,319,144,351,165
+Gusset Plate Connection,219,242,241,258
+Out of Plane Stiffener,253,227,268,271

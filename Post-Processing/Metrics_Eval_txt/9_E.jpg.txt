@@ -1,0 +1,4 @@
+Bearing,64,161,228,266
+Bearing,197,153,337,223
+Out of Plane Stiffener,134,40,192,158
+Out of Plane Stiffener,256,51,315,156

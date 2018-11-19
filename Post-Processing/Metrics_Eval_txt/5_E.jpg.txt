@@ -1,0 +1,8 @@
+Out of Plane Stiffener,184,152,208,221
+Out of Plane Stiffener,43,193,59,254
+Out of Plane Stiffener,132,219,144,273
+Out of Plane Stiffener,262,256,273,299
+Gusset Plate Connection,92,238,112,264
+Gusset Plate Connection,295,290,307,299
+Bearing,178,221,214,255
+Bearing,82,269,110,298
