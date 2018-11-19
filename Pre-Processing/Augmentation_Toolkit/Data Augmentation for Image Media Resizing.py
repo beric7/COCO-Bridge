@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug  2 11:41:22 2018
-NOT-OPTIMIZED AUGMENTATION
 @author: Eric Bianchi
 """
 
@@ -15,11 +14,13 @@ import csv
 # ============================================================================
 Model = "#6-NFS_4c_5000s1e"
 # ============================================================================
-pwd = "C://Users/Eric Bianchi/Documents/Virginia Tech/Graduate School/Research/" + Model + "/Pre-Processing"
+pwd = "PATH/" + Model + "/Pre-Processing"
 
 # The file path is either going to be Evaluation_Files or Train_Files
 # This will decide whether or not the data will be Evaluation or Training since 
 # they are separated into multiple parts. 
+# FILE_PATH = "Train" or "Evaluation"
+# ID = "T" or "E"
 FILE_PATH = "Train"
 ID = "T"
 typToSave = str("JPEG")
