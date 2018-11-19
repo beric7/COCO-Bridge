@@ -1,21 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-The vast majority of this code was developed by:
-    
-@author https://github.com/Cartucho/mAP
-
-"""
-
-
-"""
-Created on Thu Oct 18 01:22:09 2018
-
-This code was altered by:
-    
-@author: Eric Bianchi,
-
-to serve his specific needs.
-
+@authur: Eric Bianchi
 """
 
 import sys
