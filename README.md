@@ -1,6 +1,6 @@
 # Sources
 
-Do not re-invent the wheel, utilize the open-source community. To be creative one needs to understand the code they are using, so they may alter it to fit their needs. 
+Do not re-invent the wheel, utilize the open-source community. However, to be creative, you need to understand the code you are using, so you may alter it to fit your needs. 
 
 Reading:
 https://github.com/vt-vl-lab/reading_group
