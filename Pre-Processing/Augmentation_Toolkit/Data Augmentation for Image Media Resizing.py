@@ -14,7 +14,7 @@ import csv
 # ============================================================================
 Model = "#6-NFS_4c_5000s1e"
 # ============================================================================
-pwd = "PATH/" + Model + "/Pre-Processing"
+pwd = "INPUT_YOUR_PATH/" + Model + "/Pre-Processing"
 
 # The file path is either going to be Evaluation_Files or Train_Files
 # This will decide whether or not the data will be Evaluation or Training since 
