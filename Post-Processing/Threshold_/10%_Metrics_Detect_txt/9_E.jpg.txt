@@ -1,0 +1,4 @@
+Bearing,0.9989968,49,157,242,271
+Bearing,0.9560663,205,161,347,222
+Gusset Plate Connection,0.1585366,120,0,184,45
+Gusset Plate Connection,0.15110509,131,6,190,54

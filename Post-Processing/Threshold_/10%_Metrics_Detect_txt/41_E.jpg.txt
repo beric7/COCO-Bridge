@@ -1,0 +1,5 @@
+Cover Plate Termination,0.27192152,135,112,173,126
+Out of Plane Stiffener,0.17403735,218,136,245,227
+Gusset Plate Connection,0.12667678,33,101,150,167
+Cover Plate Termination,0.11366867,142,114,176,128
+Cover Plate Termination,0.10446666,150,116,185,127

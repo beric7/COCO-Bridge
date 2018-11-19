@@ -1,0 +1,2 @@
+Cover Plate Termination,0.26314104,64,69,148,95
+Cover Plate Termination,0.24068539,59,76,159,101

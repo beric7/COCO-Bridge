@@ -1,0 +1,5 @@
+Out of Plane Stiffener,0.9529163,267,78,306,228
+Out of Plane Stiffener,0.88475704,193,54,245,230
+Out of Plane Stiffener,0.33304632,311,87,341,230
+Out of Plane Stiffener,0.21085665,52,26,102,230
+Cover Plate Termination,0.19767489,281,71,317,82

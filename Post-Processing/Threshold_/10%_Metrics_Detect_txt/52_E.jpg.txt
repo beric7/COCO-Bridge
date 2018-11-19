@@ -1,0 +1,3 @@
+Gusset Plate Connection,0.5663349,299,5,343,85
+Out of Plane Stiffener,0.4379392,184,1,217,230
+Out of Plane Stiffener,0.38760635,103,6,138,209

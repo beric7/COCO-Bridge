@@ -1,0 +1,5 @@
+Bearing,0.9893511,71,16,400,215
+Out of Plane Stiffener,0.4372634,106,0,122,44
+Out of Plane Stiffener,0.1832222,97,0,113,45
+Out of Plane Stiffener,0.12603375,188,0,206,24
+Out of Plane Stiffener,0.10186893,177,0,191,21

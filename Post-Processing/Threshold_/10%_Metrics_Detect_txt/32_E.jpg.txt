@@ -1,0 +1,2 @@
+Out of Plane Stiffener,0.77869534,52,1,99,93
+Out of Plane Stiffener,0.5446974,286,9,334,163
