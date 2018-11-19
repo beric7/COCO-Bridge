@@ -12,7 +12,7 @@ import sys
 Model = "#6-NFS_4c_5000s1e"
 # ============================================================================
 
-sys.path.insert(0, "C://Users/Eric Bianchi/Documents/Virginia Tech/Graduate School/Research/Python_Package")
+sys.path.insert(0, "INPUT_YOUR_PATH/Python_Package")
 
 from csv_info import csv_info
 from image import image
@@ -23,7 +23,7 @@ from im_aug import im_aug
 # This will decide whether or not the data will be Evaluation or Training since 
 # they are separated into multiple parts.
 
-pwd = "C://Users/Eric Bianchi/Documents/Virginia Tech/Graduate School/Research/" + Model + "/Pre-Processing"
+pwd = "INPUT_YOUR_PATH" + Model + "/Pre-Processing"
 # output .csv file names/locations
 TRAINING_DATA_DIR = pwd + "/" + "training_data"
 TRAIN_CSV_FILE_LOC = TRAINING_DATA_DIR + "/" + "train_labels.csv"
